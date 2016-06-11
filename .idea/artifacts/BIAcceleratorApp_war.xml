@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BIAcceleratorApp:war">
+    <output-path>$PROJECT_DIR$/BIAcceleratorApp/target</output-path>
+    <root id="archive" name="BIAccelerator.war">
+      <element id="artifact" artifact-name="BIAcceleratorApp:war exploded" />
+    </root>
+  </artifact>
+</component>
